@@ -1,80 +1,19 @@
-# Hi, I'm Adrian 👋
+# Adrian 👋
 
-AI/ML engineer passionate about AGI, intelligent systems, and the future of autonomous AI.
+AI/ML engineer obsessed with AGI, intelligent systems, and understanding how intelligence actually works.
 
-I spend most of my time building, experimenting, and learning about:
+Currently building with:
 - Generative AI
-- Agentic AI Systems
-- Multi-Agent Frameworks
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
-- ML Engineering
-- Human Intelligence & Reasoning Systems
-
-My long-term interest lies in understanding intelligence itself — how humans learn, reason, adapt, and how those ideas can inspire the next generation of AI systems.
-
----
-
-## 🚀 What I'm Currently Working On
-- Building practical AI systems and workflows
-- Exploring agentic and multi-agent architectures
-- Researching AGI-related concepts and reasoning systems
-- Improving my ML engineering and backend skills
-- Learning how to build scalable AI products
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-- Python
-- JavaScript
-- SQL
-
-### AI/ML
-- PyTorch
-- Hugging Face
-- LangChain
-- LangGraph
-- Transformers
+- Agentic & Multi-Agent Systems
 - RAG Pipelines
+- LLM Applications
 
-### Backend & Tools
-- FastAPI
-- Flask
-- Docker
-- Git
+Most of my time goes into building AI projects, experimenting with new frameworks, and exploring ideas around reasoning, autonomy, and human intelligence.
 
-### Currently Exploring
-- Agentic Frameworks
-- Multi-Agent Systems
-- Autonomous AI
-- World Models
-- Reasoning Systems
+> Trying to reverse engineer intelligence one project at a time.
 
----
+## Tech
+Python • PyTorch • LangChain • LangGraph • FastAPI • Docker
 
-## 📚 Philosophy
-
-I believe the best way to learn AI is by:
-- Building real systems
-- Understanding fundamentals deeply
-- Experimenting constantly
-- Learning in public
-- Staying updated with the latest research
-
----
-
-## 🌌 Interests
-- AGI Research
-- Human Intelligence
-- Space & Future Technologies
-- AI Research Papers
-- Self Improvement
-
----
-
-## 🤝 Connect With Me
+## Connect
 - LinkedIn: [linkedin.com/in/adrianpatrick](https://www.linkedin.com/in/adrianpatrick/)
-
-Always open to collaborating on interesting AI projects and ambitious ideas.
